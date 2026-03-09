@@ -1,0 +1,23 @@
+[33mcommit bc86eb8a4ab3b0c3f8b6e87f261bdc19658e42dc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m
+Author: SurashriBanerjee <surashri.banerjee2006@gmail.com>
+Date:   Tue Feb 17 11:31:20 2026 +0530
+
+    UC3: Implemented OOPS banner using String.join()
+
+[33mcommit 24fa17289a26d69ca7b0b0541db22d64c50e1889[m
+Author: SurashriBanerjee <surashri.banerjee2006@gmail.com>
+Date:   Tue Feb 17 11:15:46 2026 +0530
+
+    Added UC1 and updated UC2
+
+[33mcommit 07f1a1d3e29b3bed6cea8e050c075416a3a8de02[m
+Author: SurashriBanerjee <surashri.banerjee2006@gmail.com>
+Date:   Tue Feb 17 10:55:21 2026 +0530
+
+    UC2: Implemented ASCII OOPS banner
+
+[33mcommit f8e45c69ac349ad3ff26261063274361bfc27057[m
+Author: SurashriBanerjee <surashri.banerjee2006@gmail.com>
+Date:   Mon Feb 16 13:03:05 2026 +0530
+
+    Initial commit
